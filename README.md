@@ -1,11 +1,10 @@
-# Clever Programmer ReactJS Portfolio Template      
+# Ashish Agnihotri ReactJS Portfolio Template      
 
-## 👇 WATCH THIS FIRST 👇
-## https://tinyurl.com/customizeReactPortfolio
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+![Screenshot (215)](https://user-images.githubusercontent.com/42762022/92512516-827e0080-f22c-11ea-95f1-1c128adc3c9a.png)
 
-## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
+
+## <a href="https://ashishportfolio.netlify.app/">LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
@@ -30,7 +29,7 @@ Here is the link to download zip 👉
 ## Credits
 
 #### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
-
+## Also TO Team Clever Programmer
 
 
 HTML Design Template
